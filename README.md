@@ -1,2 +1,3 @@
-# raftConsensus
+# Raft
+
 Raft Consensus Algorithm
